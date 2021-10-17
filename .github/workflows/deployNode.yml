@@ -3,7 +3,7 @@ on:
     branches:
       - master
 
-name: Build and deploy Plain Node.js on Linux Web App
+name: Build and deploy Plain Node.js on Linux Web App-TEST
 
 jobs:
   build-and-deploy:
